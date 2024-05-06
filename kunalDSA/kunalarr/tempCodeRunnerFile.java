@@ -1,0 +1,1 @@
+Math.max(maxprofit, profit);
